@@ -1,0 +1,15 @@
+#usericon{
+    padding-top: 10px;
+    display: block;
+    margin: auto;
+    font-size: 80px;                  /* Tamaño del icono */
+    //color: var(--ion-color-danger);   /* Cambia el color según tu preferencia */
+}
+
+ion-card-title{
+    
+}
+
+ion-button:hover ion-icon {
+    color: var(--ion-color-danger); /* Cambiar el color a rojo (danger) */
+}
